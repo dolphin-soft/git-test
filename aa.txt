@@ -1,0 +1,9 @@
+./
+../
+.git/
+akka.txt
+./
+../
+.git/
+
+a.txt
